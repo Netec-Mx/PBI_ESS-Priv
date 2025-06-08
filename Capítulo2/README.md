@@ -305,9 +305,9 @@ Mejorará la página **Profit** con botones, lo que permite al usuario del infor
 
 Al finalizar el laboratorio se espera que el resultado sea similar a la siguiente imágen:
 
-![Tabla](../images/Capitulo2/resultado1.png) 
+![result1](../images/Capitulo2/resultado1.png) 
 
-![Conf Tabla](../images/Capitulo2/resultado2.png)
+![result2](../images/Capitulo2/Resultado2.png)
 
 ---
 

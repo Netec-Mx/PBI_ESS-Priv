@@ -35,6 +35,7 @@ Al finalizar la práctica, serás capaz de:
 5. Selecciona el área de trabajo creada: **Informes de ventas** (O el área de trabajo creda con el nombre relacionado al proyecto).
     ![img6](../images/Capitulo3/img6.png)
 6. Dar clic en **Seleccionar**.
+
     ![img7](../images/Capitulo3/img7.png)
 
 ---
@@ -57,6 +58,7 @@ Al finalizar la práctica, serás capaz de:
 1. En la cinta superiror, haz clic en **Compartir**.
 1. Escribe el correo de otro usuario dentro de tu organización.
 1. Añade un mensaje personalizado y haz clic en **Enviar**.
+    
     ![img10](../images/Capitulo3/img10.png)
 1. Confirma que el usuario tenga acceso al área de trabajo.
 
