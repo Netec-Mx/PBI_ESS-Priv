@@ -1,4 +1,4 @@
-![logo]()
+<img src="images/neteclogo.png" alt="logo" width="300"/>
 
 # Power BI Básico
 
