@@ -13,11 +13,11 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
     - **Descripción**: Carga datos a datos a Power BI Destkop y crea relaciones y jerarquías.
     - ⏱️ **Duración estimada**: 60 min.
 
-02. ### [Práctica 2. Creación de informe y mejora en la experiencia de usuario](./Capitulo2/README.md)
+02. ### [Práctica 2. Creación de informe y mejora en la experiencia de usuario](./Capítulo2/README.md)
     - **Descripción**: Diseña un informe en Power BI con visualizaciones apropiadas, interactividad y enfoque en la experiencia del usuario.. 
     - ⏱️ **Duración estimada**: 60 min.
 
-03. ### [Práctica 3. Exploración de Power BI Service y Creación de Dashboard](./Capitulo3/README.md)
+03. ### [Práctica 3. Exploración de Power BI Service y Creación de Dashboard](./Capítulo3/README.md)
     - **Descripción**: Publica y comparte tu informe al servicio de Power BI; crear un dashboard interactivo y diseña un informe para dispositivos móviles. 
     - ⏱️**Duración estimada**: 80 min.
 
