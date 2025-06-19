@@ -9,17 +9,17 @@ Bienvenido a la **Plataforma de Laboratorios** del curso **Power BI Básico**. A
 ## Lista de Laboratorios
 Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
 
-01. ### [Práctica 1. Carga y modelado de datos.](./Capitulo1/README.md)
-    - **Descripción**: Modele una aplicación orientada a microservicios en Microsoft Threat Modeling Tool.
-    - ⏱️ **Duración estimada**: 45 min.
+01. ### [Práctica 1. Carga y modelado de datos.](./Capítulo1/README.md)
+    - **Descripción**: Carga datos a datos a Power BI Destkop y crea relaciones y jerarquías.
+    - ⏱️ **Duración estimada**: 60 min.
 
 02. ### [Práctica 2. Creación de informe y mejora en la experiencia de usuario](./Capitulo2/README.md)
-    - **Descripción**: En este laboratorio se espera que el alumno pueda implementar un api restful usando arquitectura limpia y analizar su código usando Synk y SonarQube. 
+    - **Descripción**: Diseña un informe en Power BI con visualizaciones apropiadas, interactividad y enfoque en la experiencia del usuario.. 
     - ⏱️ **Duración estimada**: 60 min.
 
 03. ### [Práctica 3. Exploración de Power BI Service y Creación de Dashboard](./Capitulo3/README.md)
-    - **Descripción**: En este laboratorio se espera que el alumno pueda comprobar la salud de sus dependencias usadas en su proyecto usando Snyk y OWASP Dependency Check. 
-    - ⏱️**Duración estimada**: 40 min.
+    - **Descripción**: Publica y comparte tu informe al servicio de Power BI; crear un dashboard interactivo y diseña un informe para dispositivos móviles. 
+    - ⏱️**Duración estimada**: 80 min.
 
 ---
 ## 📬 **Contacto y Más Información**
