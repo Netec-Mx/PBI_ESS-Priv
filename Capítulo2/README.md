@@ -1,140 +1,148 @@
 # Práctica 2. Creación de informe y mejora en la experiencia de usuario
 
 ## Objetivo de la práctica:
+
 Al finalizar la práctica, serás capaz de:
-- Diseñar un informe en Power BI con visualizaciones apropiadas, interactividad y enfoque en la experiencia del usuario.
+- Diseñar un informe en Power BI con visualizaciones adecuadas, elementos interactivos y un enfoque centrado en la experiencia del usuario.
 
 ## Duración aproximada:
 - 60 minutos.
 
-## Instrucciones
+---
+| | | |
+|-|-|-|
+|**[⬅️ Atrás](https://netec-mx.github.io/PBI_ESS-Priv/Cap%C3%ADtulo1/)** | **[Lista General](https://netec-mx.github.io/PBI_ESS-Priv/)** | **[Siguiente ➡️](https://netec-mx.github.io/PBI_ESS-Priv/Cap%C3%ADtulo3/)**|
+| | ||
 
-**Descripción:** Luego de construir un modelo de datos estructurado en la primera práctica, el siguiente paso es transformar esa base en un informe funcional, claro y orientado al análisis. A partir de las relaciones entre productos, regiones, revendedores y periodos de tiempo, se busca crear visualizaciones que resalten patrones clave y faciliten la exploración de los datos por parte del usuario. Este laboratorio se enfoca en diseñar una experiencia visual efectiva mediante el uso de segmentaciones, jerarquías, tooltips y gráficos adecuados para cada tipo de información. El objetivo es que el informe final no solo comunique datos, sino que permita interactuar con ellos de forma intuitiva y con criterio analítico.
+---
+## Instrucciones:
 
-> _**Nota:** En esta práctica usará el archivo resultante del laboratorio anterior: **PBI_ESS_PRIV.pbix**_
+**Descripción:** Después de construir un modelo de datos estructurado en la primera práctica, el siguiente paso es transformar esa base en un informe funcional, claro y orientado al análisis. A partir de las relaciones entre productos, regiones, revendedores y periodos de tiempo, tu objetivo será crear visualizaciones que destaquen patrones clave y faciliten la exploración de los datos.
 
-<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Diseño de primera página del informe.
+Esta práctica se enfoca en diseñar una experiencia visual efectiva utilizando segmentaciones, jerarquías, tooltips y gráficos adecuados para cada tipo de información. El objetivo es que el informe final no solo comunique datos, sino que también permita interactuar con ellos de forma intuitiva y con criterio analítico.
 
-1. En el panel de vistas, selecciona **Vista de informe**.
+> 💡***Nota:** En esta práctica utilizarás el archivo resultante del laboratorio anterior: **PBI_ESS_PRIV.pbix***.
 
-1. En la parte inferior, añade una página para trabajar en un nuevo **lienzo de informe**.
+---
 
-    ![img4](../images/Capitulo3/img4.png) 
+### Tarea 1. Diseñar la primera página del informe.
+
+1. En el panel de **Vistas**, selecciona la opción **Vista de informe**.
+
+2. En la parte inferior, añade una página para trabajar en un nuevo **lienzo de informe**.
+
+![img4](../images/Capitulo3/img4.png) 
 
 En este ejercicio, diseñarás un informe.
 
-1. Agregar una página nueva en el informe. Para cambiar el nombre de la página en Power BI Desktop, en la parte inferior izquierda, haga clic con el botón derecho en **Página 2**, elija **Cambiar nombre de página** y dele el nombre **Información general**.
+3. Agregar una página nueva en el informe. Para cambiar el nombre de la página en Power BI Desktop, en la parte inferior izquierda, haga clic con el botón derecho en **Página 2**, elija **Cambiar nombre de página** y dele el nombre **Información general**.
 
     > *Sugerencia: También puede hacer doble clic en el nombre de la página para cambiarle el nombre.*
 
-1. Para agregar una imagen, en la ficha de cinta **Insertar**, en el grupo **Elementos**, seleccione **Imagen**.
+4. Para añadir una imagen, ve a la pestaña **Insertar** en la cinta de opciones. En el grupo **Elementos**, selecciona **Imagen**.
 
     ![Insertar Imagen](../images/Capitulo2/07-design-report-in-power-bi-desktop_image15.png)
 
-1. En la ventana **Abrir**, ve a la carpeta del repositorio del curso.
-
-1. Seleccione el archivo **Logo.png** y **Abrir**.
-
-1. Arrastre la imagen para colocarla en la esquina superior izquierda y también los marcadores de guía para cambiar su tamaño.
+5. En la ventana **Abrir**, dirígete a la carpeta del repositorio del curso.
+6. Selecciona el archivo **Logo.png** y, posteriormente, da clic en **Abrir**.
+7. Arrastra la imagen y colócala en la esquina superior izquierda del lienzo. Usa los marcadores de guía para ajustar su tamaño.
 
      ![Imagen 12](../images/Capitulo2/07-design-report-in-power-bi-desktop_image17.png)
 
-1. Para agregar una segmentación, primero anule la selección de la imagen haciendo clic en un área vacía de la página del informe. A continuación, elija **Segmentación** en el panel **Visualizaciones**.
+8. Para agregar una segmentación, primero anula la selección de la imagen. Para ello, haz clic en un área vacía de la página del informe. A continuación, en el panel **Visualizaciones**, selecciona el ícono de **Segmentación** .
 
      ![Imagen 49](../images/Capitulo2/07-design-report-in-power-bi-desktop_image18.png)
 
-1. En el panel **Datos**, arrastre el campo **Date [Fiscal Year]** (no el nivel **Año** de la jerarquía) a la segmentación **Campo** en el panel Visualizaciones.
+9. En el panel **Datos**, arrastra el campo **Date [Fiscal Year]** directamente (no el nivel **Año** de la jerarquía) a la segmentación **Campo**, en el panel Visualizaciones.
 
-1. Para convertir la segmentación de lista en una lista desplegable, vaya a **Visualizaciones > Objeto visual > Visual > Configuración de segmentación > Estilo** y elija **Menú desplegable** en la lista desplegable.
+10. Para cambiar la segmentación de lista en una lista desplegable, ve a: **Visualizaciones ➡️ Objeto visual ➡️ Visual ➡️ Configuración de segmentación ➡️ Estilo**, y en la lista desplegable selecciona **Menú desplegable**.
 
     ![Estilo de segmentación](../images/Capitulo2/img1.png)
 
-1. Cambie el tamaño y coloque la segmentación para que quede debajo de la imagen y pueda asegurarse de que tenga el mismo ancho que la imagen.
+11. Ajusta el tamaño y coloca la segmentación justo debajo de la imagen. Asegúrate de que tenga el mismo ancho que la imagen.
 
      ![Imagen 19](../images/Capitulo2/07-design-report-in-power-bi-desktop_image20.png)
 
-1. En la segmentación **Fiscal Year**, abra la lista desplegable, seleccione **FY2020** y, después, contraiga la lista desplegable.
-    > *La página del informe ahora se filtra por el año **FY2020**.*
+12. En la segmentación **Fiscal Year**, abre la lista desplegable, selecciona **FY2020** y luego contrae nuevamente la lista.
+
+    > 💡***Nota:** La página del informe ahora se filtra por el año **FY2020**.*
 
      ![Imagen 20](../images/Capitulo2/07-design-report-in-power-bi-desktop_image21.png)
 
-1. Anule la selección de la segmentación haciendo clic en un área vacía de la página del informe.
-
-1. Cree una segunda segmentación basada en el campo **SalesTerritory [Región]** (no en el nivel **Región** de la jerarquía).
-
-1. Deje la segmentación en forma de lista y, después, cambie el tamaño de la segmentación y colóquela debajo de la segmentación **Fiscal Year**.
+13. Haz clic en un área vacía del lienzo para anular la selección de la segmentación actual.
+14. Crea una segunda segmentación usando el campo **SalesTerritory [Región]** (no en el nivel **Región** de la jerarquía).
+15. Deje la segmentación en forma de lista y, después, cambie el tamaño de la segmentación y colóquela debajo de la segmentación **Fiscal Year**.
 
      ![Imagen 21](../images/Capitulo2/07-design-report-in-power-bi-desktop_image22.png)
 
-1. Anule la selección de la segmentación haciendo clic en un área vacía de la página del informe.
+16. Anule la selección de la segmentación haciendo clic en un área vacía de la página del informe.
 
-1. Para agregar un gráfico a la página, en el panel **Visualizaciones**, seleccione el tipo de objeto visual **Gráfico de columnas apiladas y de líneas**.
+17. Para agregar un gráfico a la página, en el panel **Visualizaciones**, seleccione el tipo de objeto visual **Gráfico de columnas apiladas y de líneas**.
 
      ![Imagen 51](../images/Capitulo2/07-design-report-in-power-bi-desktop_image26.png)
 
-1. Cambie el tamaño y coloque el objeto visual para situarlo a la derecha del logotipo y que ocupe el resto del ancho de la página del informe.
+18. Cambie el tamaño y coloque el objeto visual para situarlo a la derecha del logotipo y que ocupe el resto del ancho de la página del informe.
 
      ![Imagen 26](../images/Capitulo2/07-design-report-in-power-bi-desktop_image27.png)
 
-1. Arrastre y coloque los siguientes campos al objeto visual:
+19. Arrastre y coloque los siguientes campos al objeto visual:
 
      - **Date [Month]**
      - **Sales [Sales Amount]**
 
-1. En el panel de campos del objeto visual (situado debajo del panel **Visualizaciones**), fíjese en que los campos están asignados a los apartados o áreas **Eje X** y **Eje Y de columna**.
+20. En el panel de campos del objeto visual (situado debajo del panel **Visualizaciones**), fíjese en que los campos están asignados a los apartados o áreas **Eje X** y **Eje Y de columna**.
 
     > *Si arrastra campos a un objeto visual, se agregarán a los apartados o áreas predeterminados. Para mayor precisión, puede arrastrar campos directamente a los apartados o áreas, como hará a continuación.*
 
      ![Imagen 27](../images/Capitulo2/07-design-report-in-power-bi-desktop_image28_N.png)
 
-1. En el panel **Datos**, arrastre el campo **Sales [Profit Margin]** al apartado o área **Eje Y de línea**.
+21. En el panel **Datos**, arrastre el campo **Sales [Profit Margin]** al apartado o área **Eje Y de línea**.
 
      ![Imagen 28](../images/Capitulo2/img2.png)
 
 
-1. Anule la selección del gráfico haciendo clic en un área vacía de la página del informe.
+22. Anule la selección del gráfico haciendo clic en un área vacía de la página del informe.
 
-1. Ahora, para agregar un gráfico a la página, en el panel **Visualizaciones**, seleccione el tipo de objeto visual **Gráfico de barras apiladas**.
+23. Ahora, para agregar un gráfico a la página, en el panel **Visualizaciones**, seleccione el tipo de objeto visual **Gráfico de barras apiladas**.
 
      ![Imagen 53](../images/Capitulo2/07-stacked-column-chart.png)
 
-1. Cambie el tamaño y coloque el objeto visual para situarlo debajo del gráfico de columnas o líneas, y que ocupe la mitad del ancho del gráfico anterior.
+24. Cambie el tamaño y coloque el objeto visual para situarlo debajo del gráfico de columnas o líneas, y que ocupe la mitad del ancho del gráfico anterior.
 
      ![Imagen 33](../images/Capitulo2/07-design-report-in-power-bi-desktop_image32.png)
 
-1. Agregue los campos siguientes a los apartados o áreas del objeto visual:
+25. Agregue los campos siguientes a los apartados o áreas del objeto visual:
 
      - Eje X: **SalesTerritory [Country]**
      - Eje Y: **Sales [Sales Amount]**
      - Leyenda: **Product [Category]**
 
-1. Anule la selección del gráfico haciendo clic en un área vacía de la página del informe.
+26. Anule la selección del gráfico haciendo clic en un área vacía de la página del informe.
 
-1. Para agregar un gráfico a la página, en el panel **Visualizaciones**, haga clic en el tipo de objeto visual **Gráfico de barras apiladas**.
+27. Para agregar un gráfico a la página, en el panel **Visualizaciones**, haga clic en el tipo de objeto visual **Gráfico de barras apiladas**.
 
      ![Imagen 54](../images/Capitulo2/07-design-report-in-power-bi-desktop_image33.png)
 
-1. Cambie el tamaño y coloque el objeto visual para que rellene el espacio restante de la página del informe.
+28. Cambie el tamaño y coloque el objeto visual para que rellene el espacio restante de la página del informe.
 
      ![Imagen 35](../images/Capitulo2/07-design-report-in-power-bi-desktop_image34.png)
 
-1. Agregue los campos siguientes a los apartados o áreas del objeto visual:
+29. Agregue los campos siguientes a los apartados o áreas del objeto visual:
 
      - Eje Y: **Product [Category]**
      - Eje X: **Sales [Order Quantity]**
 
-1. Para dar formato al objeto visual, abra el panel **Formato**.
+30. Para dar formato al objeto visual, abra el panel **Formato**.
 
      ![Imagen 3](../images/Capitulo2/07-design-report-in-power-bi-desktop_image35.png)
 
-1. Expanda las **Barras** y el grupo **Color**, y luego establezca la propiedad **Color predeterminado** en un color de su preferencia (para complementar el gráfico de columnas o líneas).
+31. Expanda las **Barras** y el grupo **Color**, y luego establezca la propiedad **Color predeterminado** en un color de su preferencia (para complementar el gráfico de columnas o líneas).
 
-1. Establezca la propiedad **Etiquetas de datos** como **activada**.
+32. Establezca la propiedad **Etiquetas de datos** como **activada**.
 
      ![Imagen 2](../images/Capitulo2/img3.png)
 
-1. Guarde el archivo de Power BI Desktop.
+33. Guarde el archivo de Power BI Desktop.
 
      ![Imagen 2](../images/Capitulo2/img6.png)
 
@@ -310,4 +318,3 @@ Al finalizar el laboratorio se espera que el resultado sea similar a la siguient
 ![result2](../images/Capitulo2/Resultado2.png)
 
 ---
-
