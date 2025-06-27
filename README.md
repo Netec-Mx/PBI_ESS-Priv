@@ -2,12 +2,13 @@
 
 # Power BI Básico
 
-**Plataforma de Laboratorios**
+## Plataforma de laboratorios
 
-Bienvenido a la **Plataforma de Laboratorios** del curso **Power BI Básico**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
+Bienvenido a la **plataforma de laboratorios** del curso **Power BI Básico**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
-## Lista de Laboratorios
-Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
+## Lista de laboratorios
+
+Cada uno de estos laboratorios están diseñados para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
 
 01. ### [Práctica 1. Carga y modelado de datos.](./Capítulo1/README.md)
     - **Descripción**: Carga datos a datos a Power BI Destkop y crea relaciones y jerarquías.
@@ -22,9 +23,9 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
     - ⏱️**Duración estimada**: 80 min.
 
 ---
-## 📬 **Contacto y Más Información**
+## 📬 **Contacto y más información**
 
-Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página de recursos](https://netec.com).
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
 
 ---
 
