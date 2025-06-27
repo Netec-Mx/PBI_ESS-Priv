@@ -171,3 +171,7 @@ Al finalizar el laboratorio se espera que el resultado sea similar a la siguient
 ---
 
 ¡Felicidades! Con esta práctica concluyes el ciclo completo de un flujo profesional de trabajo en Power BI: desde la conexión a datos hasta la publicación y consumo final del análisis.
+
+---
+
+**[⬅️ Atrás](https://netec-mx.github.io/PBI_ESS-Priv/Cap%C3%ADtulo2/)** | **[Lista general](https://netec-mx.github.io/PBI_ESS-Priv/)** 
