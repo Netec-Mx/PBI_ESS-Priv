@@ -9,10 +9,8 @@ Al finalizar la práctica, serás capaz de:
 - 60 minutos.
 
 ---
-| | |
-|-|-|
-**[Lista General](https://netec-mx.github.io/PBI_ESS-Priv/)** | **[Siguiente ➡️](https://netec-mx.github.io/PBI_ESS-Priv/Cap%C3%ADtulo2/)**
-| | |
+
+**[Lista general](https://netec-mx.github.io/PBI_ESS-Priv/)** | **[Siguiente ➡️](https://netec-mx.github.io/PBI_ESS-Priv/Cap%C3%ADtulo2/)**
 
 ---
 
@@ -24,21 +22,21 @@ Al finalizar la práctica, serás capaz de:
 - ¿Qué tipo de revendedor genera más ingresos?
 - ¿Cómo cambian las ventas según el mes o país?
 
->***Nota:** Para completar este ejercicio, usa el archivo **"AdventureWorks Sales"** en formato *.xls*, el cual encontrarás en el repositorio del curso.* 
+> 💡 ***Nota:** Para completar este ejercicio, usa el archivo **"AdventureWorks Sales"** en formato *.xls*, el cual encontrarás en el repositorio del curso.* 
 
 ---
 
-### Tarea 1. Obtención de dato en Power BI.
+### Tarea 1. Obtención de datos en Power BI.
 
 Para iniciar, abre **Power BI Desktop** y crea un nuevo informe en blanco.
 
-1. En la cinta de opciones, selecciona la pestaña **Inicio** y haz clic en **Obtener datos > Libro de Excel**.
+1. En la cinta de opciones, selecciona la pestaña **Inicio** y haz clic en **Obtener datos ➡️ Libro de Excel**.
 
     ![imagen](../images/Capitulo1/img1.png)
 
 2. Realiza la carga de datos en Power BI desktop del archivo **_“AdventureWorks Sales.xlsx”_**.
 
-3. En la ventana **Navegador**, verás todas las opciones disponibles para cargar datos. Allí se muestran las tablas y  hojas de cálculo contenidas en el archivo que cargaste. Selecciona las siguientes tablas y luego haz clic en **Cargar**.
+3. En la ventana **Navegador**, puedes ver todas las opciones disponibles para cargar datos. Allí se muestran las tablas y hojas de cálculo contenidas en el archivo que cargaste. Selecciona las siguientes tablas y luego haz clic en **Cargar**.
  
    - Customer
    - Date  
@@ -50,7 +48,7 @@ Para iniciar, abre **Power BI Desktop** y crea un nuevo informe en blanco.
 
     ![Navegador](../images/Capitulo1/img2.png)
 
-    > ***Nota**: Es recomendable usar tablas, ya que Power BI trabajará mejor con un conjunto de datos bien organizado, lo que facilita el proceso de limpieza, modelado y visualización.*
+    > 💡 ***Nota**: Es recomendable usar tablas, ya que Power BI trabajará mejor con un conjunto de datos bien organizado, lo que facilita el proceso de limpieza, modelado y visualización.*
 
 4. En la pestaña **Vista de Tabla**, podrás visualizar los datos que has cargado. Después, en cada columna examina el tipo de dato, los valores, la categoría y el formato.
 
@@ -81,7 +79,7 @@ Para iniciar, abre **Power BI Desktop** y crea un nuevo informe en blanco.
 
     ![Relaciones Creadas](../images/Capitulo1/img6.png)
 
-    > ***Nota:** Asegúrate de que las relaciones estén **activas***.
+    > 💡 ***Nota:** Asegúrate de que las relaciones estén **activas***.
 
 4. Finalmente, verifica que las relaciones creadas sean correctas y valida que se cumplan.
 
@@ -130,7 +128,7 @@ Para iniciar, abre **Power BI Desktop** y crea un nuevo informe en blanco.
         
         ![Jerarquia Revendedores](../images/Capitulo1/img11.png)
 
-#### 5. Jerarquía de geografía:
+#### 5. Jerarquía de Geografía:
 
 1. En la tabla `SalesTerritory`, crea una jerarquía llamada `Geografía`.
 2. A continuación, añade los niveles:
@@ -172,7 +170,7 @@ Para iniciar, abre **Power BI Desktop** y crea un nuevo informe en blanco.
     
 ---
 
-### Tarea 5. Medidas rápidas
+### Tarea 5. Medidas rápidas.
 
 En esta tarea vas a crear dos medidas rápidas para calcular los beneficios y el margen de beneficio. Una medida rápida genera automáticamente la fórmula necesaria para realizar el cálculo. Son fáciles y rápidas de crear para cálculos simples y comunes.
 
@@ -194,13 +192,13 @@ En esta tarea vas a crear dos medidas rápidas para calcular los beneficios y el
 
 6. En el panel **Datos**, dentro de la tabla **Sales**, observa la nueva medida. 
 
-    > ***Nota:** Las medidas se indican mediante el ícono de la calculadora.*
+    > 💡 ***Nota:** Las medidas se indican mediante el ícono de la calculadora.*
 
      ![Img23](../images/Capitulo1/img23.png)
 
 7. Para cambiar el nombre de la medida, haz clic con el botón derecho sobre ella, selecciona **Cambiar nombre** y proporciónale el nombre **Profit**.
 
-    > ***Sugerencia:** Para modificar el nombre de un campo, también puedes hacer doble clic sobre él, o bien, selecciónalo y presiona **F2**.*
+    > 🧠 ***Sugerencia:** Para modificar el nombre de un campo, también puedes hacer doble clic sobre él, o bien, selecciónalo y presiona **F2**.*
 
 8. En la tabla **Sales**, añade una segunda medida rápida siguiendo los requisitos que se indican a continuación:
 
