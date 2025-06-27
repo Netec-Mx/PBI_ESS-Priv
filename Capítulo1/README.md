@@ -234,3 +234,7 @@ Ahora que ya tienes los datos cargados, el modelo construido y comprobado, es im
 Al finalizar la práctica, se espera que el resultado que obtengas sea similar al de la siguiente imagen:
 
 ![Jerarquia geografía](../images/Capitulo1/img19.png)
+
+---
+
+**[Lista general](https://netec-mx.github.io/PBI_ESS-Priv/)** | **[Siguiente ➡️](https://netec-mx.github.io/PBI_ESS-Priv/Cap%C3%ADtulo2/)**
