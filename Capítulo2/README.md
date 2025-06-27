@@ -292,4 +292,7 @@ Al finalizar el laboratorio, tu informe debería verse similar a la siguiente im
 
 ![result1](../images/Capitulo2/resultado1.png) 
 
+---
+
+**[⬅️ Atrás](https://netec-mx.github.io/PBI_ESS-Priv/Cap%C3%ADtulo1/)** | **[Lista general](https://netec-mx.github.io/PBI_ESS-Priv/)** | **[Siguiente ➡️](https://netec-mx.github.io/PBI_ESS-Priv/Cap%C3%ADtulo3/)**
 ![result2](../images/Capitulo2/Resultado2.png)
