@@ -9,10 +9,8 @@ Al finalizar la práctica, serás capaz de:
 - 60 minutos.
 
 ---
-| | | |
-|-|-|-|
-|**[⬅️ Atrás](https://netec-mx.github.io/PBI_ESS-Priv/Cap%C3%ADtulo1/)** | **[Lista general](https://netec-mx.github.io/PBI_ESS-Priv/)** | **[Siguiente ➡️](https://netec-mx.github.io/PBI_ESS-Priv/Cap%C3%ADtulo3/)**|
-| | ||
+
+**[⬅️ Atrás](https://netec-mx.github.io/PBI_ESS-Priv/Cap%C3%ADtulo1/)** | **[Lista general](https://netec-mx.github.io/PBI_ESS-Priv/)** | **[Siguiente ➡️](https://netec-mx.github.io/PBI_ESS-Priv/Cap%C3%ADtulo3/)**
 
 ---
 ## Instrucciones:
@@ -37,7 +35,7 @@ En este ejercicio, diseñarás un informe.
 
 3. Agregar una página nueva en el informe. Para cambiar el nombre de la página en Power BI Desktop, en la parte inferior izquierda, haga clic con el botón derecho en **Página 2**, elija **Cambiar nombre de página** y dele el nombre **Información general**.
 
-    > *Sugerencia: También puede hacer doble clic en el nombre de la página para cambiarle el nombre.*
+    > 🧠 ***Sugerencia:** También puede hacer doble clic en el nombre de la página para cambiarle el nombre.*
 
 4. Para añadir una imagen, ve a la pestaña **Insertar** en la cinta de opciones. En el grupo **Elementos**, selecciona **Imagen**.
 
@@ -288,7 +286,6 @@ En esta sección, vas a mejorar la página **Profit** con botones, lo que permit
 
 ✅ ¡Listo! Has completado el diseño del informe.
 
----
 ## Resultado esperado:
 
 Al finalizar el laboratorio, tu informe debería verse similar a la siguiente imagen:
@@ -296,5 +293,3 @@ Al finalizar el laboratorio, tu informe debería verse similar a la siguiente im
 ![result1](../images/Capitulo2/resultado1.png) 
 
 ![result2](../images/Capitulo2/Resultado2.png)
-
----
