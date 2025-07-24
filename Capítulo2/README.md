@@ -19,7 +19,7 @@ Al finalizar la práctica, serás capaz de:
 
 Esta práctica se enfoca en diseñar una experiencia visual efectiva utilizando segmentaciones, jerarquías, tooltips y gráficos adecuados para cada tipo de información. El objetivo es que el informe final no solo comunique datos, sino que también permita interactuar con ellos de forma intuitiva y con criterio analítico.
 
-> 💡***Nota:** En esta práctica utilizarás el archivo resultante del laboratorio anterior: **PBI_ESS_PRIV.pbix***.
+> *💡**Nota:** En esta práctica utilizarás el archivo resultante del laboratorio anterior: **PBI_ESS_PRIV.pbix**.*
 
 ---
 
@@ -292,7 +292,10 @@ Al finalizar el laboratorio, tu informe debería verse similar a la siguiente im
 
 ![result1](../images/Capitulo2/resultado1.png) 
 
+![result2](../images/Capitulo2/Resultado2.png)
+
 ---
 
 **[⬅️ Atrás](https://netec-mx.github.io/PBI_ESS-Priv/Cap%C3%ADtulo1/)** | **[Lista general](https://netec-mx.github.io/PBI_ESS-Priv/)** | **[Siguiente ➡️](https://netec-mx.github.io/PBI_ESS-Priv/Cap%C3%ADtulo3/)**
-![result2](../images/Capitulo2/Resultado2.png)
+
+---
